@@ -1,0 +1,197 @@
+{
+  "class": "qc.Sprite",
+  "data": {
+    "uuid": "a80322e2-b2b7-43b5-960c-107e204dc39f",
+    "_prefab": [
+      7,
+      "50bd21d1-3159-4ec5-a89f-81c5c19bd120"
+    ],
+    "__lock": [
+      5,
+      false
+    ],
+    "name": [
+      7,
+      "Brick"
+    ],
+    "uniqueName": [
+      7,
+      ""
+    ],
+    "ignoreDestroy": [
+      5,
+      false
+    ],
+    "alpha": [
+      3,
+      1
+    ],
+    "visible": [
+      5,
+      true
+    ],
+    "colorTint": [
+      14,
+      16777215
+    ],
+    "static": [
+      5,
+      false
+    ],
+    "scripts": [
+      {
+        "clazz": "qc.Box2D.Body",
+        "data": "575f3b5a-fb90-4f68-8a21-607129a40c61"
+      },
+      {
+        "clazz": "qc.engine.Brick",
+        "data": "a47d070b-37d1-4c46-828d-243ff99f90e0"
+      },
+      {
+        "clazz": "qc.engine.Brick",
+        "data": "5d104b92-598b-4e44-8dbe-4201d7118a7c"
+      }
+    ],
+    "position": [
+      0,
+      0,
+      60.62863455911677,
+      59.78657019024083,
+      60.62863455911677,
+      59.78657019024083,
+      32,
+      32,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "scaleX": [
+      3,
+      1
+    ],
+    "scaleY": [
+      3,
+      1
+    ],
+    "rotation": [
+      3,
+      0
+    ],
+    "interactive": [
+      5,
+      false
+    ],
+    "isFiltersThrough": [
+      5,
+      null
+    ],
+    "children": [],
+    "texture": [
+      10,
+      "Assets/atlas/breakout.bin",
+      "b5c3fe5f-41ce-472a-9c71-26c0873b5a53",
+      "breakout_red.png"
+    ],
+    "frame": [
+      7,
+      "breakout_red.png"
+    ],
+    "defaultAnimation": [
+      7,
+      null
+    ]
+  },
+  "__json": {
+    "575f3b5a-fb90-4f68-8a21-607129a40c61": {
+      "class": "qc.Box2D.Body",
+      "data": {
+        "uuid": [
+          7,
+          "575f3b5a-fb90-4f68-8a21-607129a40c61"
+        ],
+        "enable": true,
+        "type": [
+          1,
+          0
+        ],
+        "isAwake": [
+          5,
+          true
+        ],
+        "bullet": [
+          5,
+          false
+        ],
+        "angularVelocity": [
+          3,
+          0
+        ],
+        "angularDamping": [
+          3,
+          0
+        ],
+        "fixedRotation": [
+          5,
+          false
+        ],
+        "linearDamping": [
+          5,
+          0
+        ],
+        "linearVelocity": [
+          24,
+          "qc.Point",
+          [
+            0,
+            0
+          ]
+        ],
+        "gravityScale": [
+          3,
+          1
+        ],
+        "shapeData": {},
+        "fixture": [
+          {
+            "type": 0,
+            "density": 1,
+            "friction": 0.1,
+            "restitution": 0.2,
+            "sensor": false
+          }
+        ]
+      }
+    },
+    "a47d070b-37d1-4c46-828d-243ff99f90e0": {
+      "class": "qc.engine.Brick",
+      "data": {
+        "uuid": [
+          7,
+          "a47d070b-37d1-4c46-828d-243ff99f90e0"
+        ],
+        "enable": true
+      }
+    },
+    "5d104b92-598b-4e44-8dbe-4201d7118a7c": {
+      "class": "qc.engine.Brick",
+      "data": {
+        "uuid": [
+          7,
+          "5d104b92-598b-4e44-8dbe-4201d7118a7c"
+        ],
+        "enable": true
+      }
+    }
+  },
+  "dependences": {
+    "b5c3fe5f-41ce-472a-9c71-26c0873b5a53": {
+      "key": "Assets/atlas/breakout.bin",
+      "uuid": "b5c3fe5f-41ce-472a-9c71-26c0873b5a53"
+    }
+  }
+}

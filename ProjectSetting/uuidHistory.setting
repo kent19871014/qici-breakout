@@ -1,0 +1,21 @@
+{
+  "Assets/atlas/component.bin": "f3c72554-a214-4822-9225-98c8cb49f47b",
+  "Assets/atlas/component@atlas/ball lab.bin": "97bdb3ab-e576-4a33-8e9d-9043c874009e",
+  "Assets/atlas/component@atlas/blueBrick.bin": "e89ba5a1-5dce-4bfe-875f-8463c063f870",
+  "Assets/atlas/component@atlas/greenBrick.bin": "6e7c28fa-5b44-4e5e-a0c1-3771767270e8",
+  "Assets/atlas/component@atlas/metalBrick.bin": "a12b7b4a-a51c-46d1-a8a1-2e59cb5998dc",
+  "Assets/atlas/component@atlas/paddle.bin": "85a11a9f-7e78-4572-9fe9-2da155cad16c",
+  "Assets/atlas/res.bin": "20926858-b8a1-443e-a89e-a3d6912f5126",
+  "Assets/prefab/brick.bin": "8f49bf06-bb08-4149-8f20-f4061271805f",
+  "Assets/scene/breakout.bin": "8cbf2ff5-4d7f-4684-892b-54d65f5db7f9",
+  "Temp/scene_editor.bin": "d591224a-b2b1-48f1-bfec-17b30d80c854",
+  "Assets/atlas/breakout.bin": "b5c3fe5f-41ce-472a-9c71-26c0873b5a53",
+  "Assets/atlas/breakout@atlas/big_ball.bin": "9eacdb7f-43f9-44fe-b436-e91aa2f83a83",
+  "Assets/atlas/breakout@atlas/breakout_purple.bin": "2981c311-64b1-4184-882f-fdf1d229d83f",
+  "Assets/atlas/breakout@atlas/breakout_red.bin": "a7a75177-a4fd-4d72-8456-9bf3955d994f",
+  "Assets/atlas/breakout@atlas/breakout_rg.bin": "7289a427-5069-40a5-a06e-a4ce78d49a60",
+  "Assets/atlas/breakout@atlas/peddle.bin": "5b41f666-6213-41c3-b9f2-b7b6091b737b",
+  "Assets/atlas/breakout@atlas/small_ball.bin": "d9b2d9dd-1a11-4ae6-af2e-6943f1b424d5",
+  "Assets/prefab/Brick.bin": "50bd21d1-3159-4ec5-a89f-81c5c19bd120",
+  "Assets/texture/breakout_bg.bin": "b46453a3-22f6-4b15-aeb1-5cfeb9ca808d"
+}
